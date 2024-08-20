@@ -1,0 +1,5 @@
+- CNN
+- Hadoop and MapReduce (Parellel CNN)
+- Vision Transformers (ViT)
+- Genetic Algorithms
+- Ensemble Techniques
