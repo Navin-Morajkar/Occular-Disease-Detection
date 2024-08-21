@@ -1,4 +1,5 @@
 ### Please find the links to the respective trained model files:
+PS - File size is more than 250 MB hence external links are added.
 
 - [Inception V3](https://drive.google.com/file/d/1Zv-B5tDK95WSD1kArGqUHwOs819x5UIX/view?usp=drive_link)
 - [DenseNet121](https://drive.google.com/file/d/12H5mgWKbgzhKud5CD3pPZfK_oMN-DV21/view?usp=drive_link)
