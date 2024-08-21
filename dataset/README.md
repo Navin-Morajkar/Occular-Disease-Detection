@@ -9,3 +9,4 @@ in each of the five folders that make up the datasets consist of categorized usi
 file. These pictures show different stages or levels of DR intensity.
 
 - [APTOS 2019 Blindness Detection](https://www.kaggle.com/competitions/aptos2019-blindness-detection)
+- [MESSIDOR Dataset for Hadoop](https://www.adcis.net/en/third-party/messidor/)
