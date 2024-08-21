@@ -18,14 +18,15 @@ This project focuses on developing an advanced deep-learning model to detect Dia
 - **Visualization**: Matplotlib, Seaborn
 
 ## Workflow
-
+![Prelimnary Ensemle](images/EnsembleArchitecture.png)
+![Final Ensemble Architecture](images/FinalEnsemble.png)
 
 ## Installation
 
 ### Prerequisites
 - Python 3.x
 - Hadoop and MapReduce (for large-scale data processing)
-- GPU (optional but recommended for faster training) or Google Colab
+- Google Colab or Jupyter Notebook (GPU)
 
 ### Clone the Repository
 ```bash
