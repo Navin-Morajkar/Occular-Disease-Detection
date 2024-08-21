@@ -1,5 +1,6 @@
-- CNN
-- Hadoop and MapReduce (Parellel CNN)
-- Vision Transformers (ViT)
+- [CNN + SVM](notebooks/CNN.ipynb)
+- [Hadoop and MapReduce (Parellel CNN)](notebooks/MessidiorParellelCNN.ipynb)
+- [Inception - DenseNetEnsemble](notebooks/Ensemble_Inception-DenseNet.ipynb)
+- [Final Ensemble](notebooks/FinalEnsemble.ipynb)
+- Vision Transformers (Code included in Final Ensemble)
 - Genetic Algorithms
-- Ensemble Techniques
